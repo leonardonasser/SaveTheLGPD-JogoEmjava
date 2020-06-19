@@ -1,0 +1,18 @@
+ - Artes para o jogo / sprites.
+ - Pause, Game Over e Start Menu.
+ - Sistema de animação player.
+ - controle pelo teclado.
+ - Sistema para tiro ou shooting.
+ - Sistema criação de mapa
+ - Sistema de varios leveis
+ - Inimigos
+ - Boss Battle
+ - Coletar items
+ - Aumentar ataque ou defesa de acordo com item.
+ - Sistema de dano.
+ - Sistema para salvar o jogo e carregar o jogo.
+ - Audio e musica ( para o final).
+
+ 
+ - A cada 10 mortes de inimigos, o ultimo inimgo irá soltar uma carta no chao, que será algo explicando o lgpd.
+ - Quando chegar a 50 mortes irá leberar para poder ir ao outro mapa, com duas senha que terá a ver com o lgpd. 
